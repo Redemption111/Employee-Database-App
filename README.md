@@ -23,7 +23,7 @@ This project follows the **IB Computer Science Internal Assessment (IA) 2025 str
 
 ---
 
-## Documentation (Criterion A–E)
+## Documentation (Criterion A – E)
 
 <details>
 <summary><strong>Criterion A</strong></summary>
@@ -44,7 +44,7 @@ This project follows the **IB Computer Science Internal Assessment (IA) 2025 str
 <details>
 <summary><strong>Criterion C</strong></summary>
 
-- Development, implementation, and testing  
+- Development, implementation, and testing
 - [Criterion C Document](Documentation/Criterion_C.pdf)
 
 </details>
@@ -67,14 +67,32 @@ This project follows the **IB Computer Science Internal Assessment (IA) 2025 str
 
 ---
 
-## Appendices
+## Appendices (A - C)
 
 <details>
-<summary><strong>Appendices A–C</strong></summary>
+<summary><strong>Appendix A</strong></summary>
 
-Supporting materials for the IA project: diagrams, tables, screenshots, and additional notes.
+Appendix A contains all interactions with the client, which include transcripts of the interviews, emails, and feedback form.
 
-- [Appendices Folder](Documentation/Appendices_A-C)
+- [Appendix A](Documentation/Appendix_A.pdf)
+
+</details>
+
+<details>
+<summary><strong>Appendix B</strong></summary>
+
+Appendix B contains preliminary research on competing softwares that could be used to address the client's needs.
+
+- [Appendix B](Documentation/Appendix_B.pdf)
+
+</details>
+
+<details>
+<summary><strong>Appendix C</strong></summary>
+
+Appendix C contains the source code of the project.
+
+- [Appendix C](Documentation/Appendix_C.pdf)
 
 </details>
 
@@ -113,7 +131,9 @@ Employee-Database-App/
 │   ├── Criterion_C.pdf
 │   ├── Criterion_D.mp4
 │   ├── Criterion_E.pdf
-│   ├── Appendices_A-C/
+│   ├── Appendix_A.pdf
+│   ├── Appendix_B.pdf
+│   ├── Appendix_C.pdf
 │   └── Record_of_Tasks.pdf
 ├── src/
 │   └── ... Java source files ...
