@@ -135,7 +135,7 @@ Employee-Database-App/
 │   ├── Appendix_B.pdf
 │   ├── Appendix_C.pdf
 │   └── Record_of_Tasks.pdf
-├── src/
-│   └── ... Java source files ...
+├── Functionality Showcase.mp4
+├── Product.zip
 ├── cover_page.html
 └── README.md
