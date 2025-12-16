@@ -8,8 +8,8 @@
 
 ## Overview
 
-The **Employee Database App** is a Java Swing application designed to manage employee records efficiently.  
-This project follows the **IB Computer Science Internal Assessment (IA) 2025 structure**, including documentation, record of tasks, appendices, and multimedia support.
+The **Employee Database App** is a Java Swing application with an embedded GlassFish Derby database designed to add, update, delete, and track employee records efficiently.  
+This project follows the **IB Computer Science Internal Assessment (IA) 2025 structure**, including documentation, record of tasks, and appendices.
 
 ---
 
